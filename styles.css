@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    width: 80%;
+    line-height: 1.5;
+    margin: auto;
+    overflow: hidden;
+}
+.header-style {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
+.header-style h1 {
+    margin: 0;
+}
+.section-style {
+    background: #e7e7e7;
+    padding: 15px;
+    margin-bottom: 10px;
+}
